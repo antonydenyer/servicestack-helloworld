@@ -1,0 +1,16 @@
+/node_modules/
+*.log
+_ReSharper.*
+*.ncrunch*
+*.user
+obj
+bin
+*~
+*.sln.cache
+*.suo
+*.user
+*.dotCover
+*.pidb
+*.userprefs
+*.usertasks
+*.mdb
