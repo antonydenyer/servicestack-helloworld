@@ -1,7 +1,7 @@
 using System;
 using ServiceStack.ServiceHost;
 
-namespace ServiceStack.Web
+namespace SS.Web
 {
 	[Route("/hello")]
 	[Route("/hello/{Name}")]

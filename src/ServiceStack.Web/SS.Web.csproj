@@ -8,8 +8,8 @@
     <ProjectGuid>{857477D5-4AC0-4641-8998-98D7C0BA3DE4}</ProjectGuid>
     <ProjectTypeGuids>{349C5851-65DF-11DA-9384-00065B846F21};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
-    <RootNamespace>ServiceStack.Web</RootNamespace>
-    <AssemblyName>ServiceStack</AssemblyName>
+    <RootNamespace>SS.Web</RootNamespace>
+    <AssemblyName>SS.Web</AssemblyName>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>

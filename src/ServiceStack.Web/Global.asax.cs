@@ -4,7 +4,7 @@ using System.ComponentModel;
 using System.Web;
 using System.Web.SessionState;
 
-namespace ServiceStack.Web
+namespace SS.Web
 {
 	public class Global : System.Web.HttpApplication
 	{

@@ -1,6 +1,6 @@
 using System;
 
-namespace ServiceStack.Web
+namespace SS.Web
 {
 	public class HelloResponse
 	{

@@ -1,1 +1,1 @@
-<%@ Application Inherits="ServiceStack.Web.Global" %>
+<%@ Application Inherits="SS.Web.Global" %>

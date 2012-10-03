@@ -1,4 +1,4 @@
-namespace ServiceStack.Web
+namespace SS.Web
 {
 	public class HelloService : ServiceStack.ServiceInterface.Service
 	{
